@@ -34,7 +34,7 @@ require (
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/ini.v1 v1.44.0
 	gopkg.in/urfave/cli.v1 v1.20.0
-	gopkg.in/yaml.v3 v3.0.0-20210107172259-749611fa9fcc
+	gopkg.in/yaml.v3 v3.0.0
 )
 
 require (
